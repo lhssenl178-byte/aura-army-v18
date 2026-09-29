@@ -1,2 +1,20 @@
-# aura-army-v18
-AURA ARMY V18 - Flutter app with Firebase, social media links, and GitHub Actions APK build
+# مشروع أندرويد الأصلي: Aura - الحسن السلام (com.hassan.aura)
+
+مرحباً بك أ سيدي الحسن السلام! هذا المشروع جاهز بالكامل للبناء وتوليد ملف APK.
+
+## ما يحتويه هذا المشروع:
+1. زر الصوت الذهبي الرسمي (#D4AF37) بارتفاع 70dp.
+2. التعرف الصوتي الذكي بالدارجة المغربية (Locale "ar", "MA").
+3. الاستجابة للأوامر الرئيسية:
+   - "يا AURA حل المتجر" 🛍️
+   - "يا AURA وقت الصلاة" 🕌
+   - "يا AURA حل السبحة" 📿
+
+## طريقة توليد ملف الـ APK في Android Studio:
+1. افتح برنامج Android Studio.
+2. اضغط على File > Open واختر هذا المجلد.
+3. انتظر ثوانٍ حتى تنتهي مزامنة Gradle Sync.
+4. من القائمة العلوية اضغط على:
+   Build > Build Bundle(s) / APK(s) > Build APK(s)
+5. ستجد ملف APK الناتج في: app/build/outputs/apk/debug/app-debug.apk
+6. ثبته مباشرة على هاتفك واستمتع بتطبيقك الخاص!
